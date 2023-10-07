@@ -1,1 +1,2 @@
 # MERN-AUTH
+# MERN-AUTH_Template
